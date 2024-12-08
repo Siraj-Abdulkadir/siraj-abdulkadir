@@ -5,7 +5,11 @@ Eager to contribute to team success
 through hard work, attention to detail and excellent organizational skills.
 <hr/>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siraj-Abdulkadir&show_icons=true&theme=radical)
