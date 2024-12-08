@@ -1,4 +1,4 @@
-## Hi I'm Siraj Abdulkadir 👋
+## Hi, I'm Siraj Abdulkadir 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siraj-Abdulkadir&hide=contribs,prs)
 
