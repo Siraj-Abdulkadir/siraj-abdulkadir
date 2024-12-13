@@ -9,7 +9,7 @@
 
   ![](https://komarev.com/ghpvc/?username=Siraj-Abdulkadir)
   <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+    <img src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
 </p>
 
 <p align="center"> Highly motivated, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with.
