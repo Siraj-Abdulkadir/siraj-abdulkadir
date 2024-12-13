@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 
-   ******************* ![](https://komarev.com/ghpvc/?username=Siraj-Abdulkadir) *********************
+   ******************** ![](https://komarev.com/ghpvc/?username=Siraj-Abdulkadir) *********************
 
 <p align="center"> Highly motivated, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with.
 Eager to contribute to team success through hard work,attention to detail and excellent organizational skills. </p>
