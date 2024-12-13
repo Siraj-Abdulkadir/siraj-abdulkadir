@@ -7,7 +7,7 @@ through hard work, attention to detail and excellent organizational skills.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,git,html,css,nodejs,bootstrap,npm,react,figma,pyton" />
+    <img src="https://skillicons.dev/icons?i=javascript,git,html,css,nodejs,bootstrap,npm,react,figma,python" />
   </a>
 </p>
 
