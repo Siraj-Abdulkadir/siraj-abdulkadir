@@ -22,7 +22,7 @@ Eager to contribute to team success through hard work,attention to detail and ex
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Siraj-Abdulkadir&theme=dark" />
+    <img src="https://streak-stats.demolab.com/?user=Siraj-Abdulkadir&theme=dark&hide_longest_streak(true)" />
   </a>
 </p>
 
