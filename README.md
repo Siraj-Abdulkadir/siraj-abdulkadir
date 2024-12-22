@@ -16,7 +16,7 @@ Eager to contribute to team success through hard work,attention to detail and ex
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,git,html,css,nodejs,bootstrap,npm,react,figma,python" />
+    <img src="https://skillicons.dev/icons?i=javascript,git,html,css,nodejs,bootstrap,npm,react,figma,python,jquery" />
   </a>
 </p>
 
