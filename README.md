@@ -22,6 +22,6 @@ Eager to contribute to team success through hard work,attention to detail and ex
 
 
 <p align="center">
-    <a href="https://github/Siraj-Abdulkadir"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Siraj-Abdulkadir&show_icons=true&theme=transparent&font=baloo&extension=null&border=2&border_radius=8&hide_border=true"></a>
-    <a href="https://github.com/Siraj-Abdulkadir"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraj-Abdulkadir&theme=transparent&layout=compact&langs_count=4&bg_color=101010&hide_title=false&hide=css,html&hide_border=true"></a>
+    <a href="https://github/Siraj-Abdulkadir"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Siraj-Abdulkadir&show_icons=true&theme=vision-friendly-dark&font=baloo&extension=null&border=2&border_radius=8&hide_border=true"></a>
+    <a href="https://github.com/Siraj-Abdulkadir"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraj-Abdulkadir&theme=vision-friendly-dark&layout=compact&langs_count=4&bg_color=101010&hide_title=false&hide=css,html&hide_border=true"></a>
 </p>
